@@ -28,8 +28,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 > ⚠️ **Disclaimer:**  
 > This project is intended **strictly for educational purposes**. It is designed to help security professionals, students, and enthusiasts understand offensive and defensive DevSecOps techniques in controlled, ethical environments.
->
-> You are solely responsible for ensuring that any testing, simulation, or experimentation based on the contents of this project is conducted legally, ethically, and within authorized systems and networks.
 
 ---
 
