@@ -2,6 +2,10 @@
 
 **An Offensive & Defensive Security Playground for Kubernetes, Wazuh, and Cloud Security**
 
+<div align="center">
+  <img src="docs/images/readme_photo1.png" alt="README photo 1" width="400"/>
+</div>
+
 ---
 
 ## Project Overview
