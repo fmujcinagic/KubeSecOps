@@ -52,7 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 - `kubectl`
 - `minikube`
 - `kustomize`
-- Python 3.x
+- Python 3.12.3
 - Git
 - Basic understanding of Bash scripting
 
